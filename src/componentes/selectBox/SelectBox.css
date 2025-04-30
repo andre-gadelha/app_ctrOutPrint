@@ -1,0 +1,20 @@
+.selectbox{
+    margin: 24px 0;
+}
+
+.selectbox label{
+    display: block;
+    margin-bottom: 8px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.selectbox select{
+    background-color: #FFF;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.6);
+    width: 75%;
+    border: none;
+    font-size: 14px;
+    padding: 24px;
+    box-sizing: border-box;
+}
